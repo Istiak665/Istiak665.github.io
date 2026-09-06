@@ -30,34 +30,34 @@ author:
   location         : "Houghton, MI, USA"
   employer         : "Michigan Technological University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mahamm2@mtu.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  academia         : 
+  arxiv            : 
+  googlescholar    : "https://scholar.google.com/citations?user=3TfbUHsAAAAJ&hl=en"
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0009-0002-4872-3550"
+  semantic         : 
+  ssrn             : 
+  pubmed           : 
+  researchgate     : 
+  scopus           : 
+  zotero           : 
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Istiak665"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "istiak-ahammed"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
