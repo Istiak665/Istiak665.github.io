@@ -23,7 +23,7 @@ repository               : "Istiak665/Istiak665.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Md Istiak Ahammed"
   pronouns         : "he/him"
   bio              : "PhD researcher in Electrical Engineering at Michigan Technological University working on computer vision, deep learning, and marine robotics perception."
