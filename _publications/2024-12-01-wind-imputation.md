@@ -27,4 +27,4 @@ Ahammed, Istiak, Sujeen Song, Gang Hu, Jinwoo An, and Bubryur Kim. "Enhanced win
 ### Links
 
 [Publisher / DOI](https://doi.org/10.12989/was.2024.39.6.435)  
-[ScholarWorks @ UTRGV](PASTE_YOUR_UTRGV_ARTICLE_URL_HERE)
+[ScholarWorks @ UTRGV](https://scholarworks.utrgv.edu/ce_fac/121/)
